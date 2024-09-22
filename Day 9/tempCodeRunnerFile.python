@@ -1,0 +1,3 @@
+while ptr.next is not None:
+        #     ptr=ptr.next
+        # ptr.next = temp
